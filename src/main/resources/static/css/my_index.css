@@ -1,0 +1,159 @@
+
+
+a:hover{
+   text-decoration: none; 
+}
+
+
+/*body{*/
+/*    min-width:1200px;*/
+/*}*/
+
+/*头部*/
+.header {
+    		background: #333;
+    	}
+
+
+h3{
+	text-align: center;
+}
+.fixed{
+    width:100%;
+    height:80px;
+    position:fixed;
+    top:0;
+    left:0;
+    z-index:999
+}
+
+
+.my-logo{
+	color: #fff;
+	font-size: 36px;
+	float: left;
+	line-height: 80px;
+    font-family: STFangsong;
+    font-weight: bolder;
+    /*font-style: italic;*/
+}
+
+/*内容*/
+
+.container {
+    margin-top:100px;
+}
+
+
+.item-title{
+    font-size: 30px;
+}
+
+.after{
+    margin: 15px auto;
+    width: 110px;
+    border-bottom: solid 4px #2baf77;
+}
+
+
+.glyphicon{
+    color: #2baf77;
+    font-size: 40px;
+}
+
+.my_icon{
+    display: block;
+}
+
+.goodness{
+    text-align: center;
+}
+
+strong{
+    font-size: 24px;
+}
+
+.muted{
+    font-size: 18px;
+    line-height: 1.8;
+    margin: 18px 120px;
+}
+
+.tubiao{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: -40px;
+}
+
+.my_img{
+    width: 50%;
+    margin: 0px 30px;
+    margin-bottom: 30px;
+}
+
+.my_product{
+    width: 80%;
+    margin: 80px auto 0;
+}
+
+.thumbnail.stu{
+    background: #fafafa;
+    border: none;
+    box-shadow: 0 0 0 #fff;
+}
+
+.thumbnail.stu:hover{
+    box-shadow: 0 0 2px  #aaa;
+    opacity:0.8;
+}
+
+.my_title{
+    font-size: 24px;
+    line-height: 1.8;
+}
+
+.my_sichaun{
+    margin-bottom: 60px;
+}
+
+.sichuan{
+    text-align: center;
+    color: #999;
+    font-size: 18px;
+}
+
+.footer-copyright{
+    text-align: center;
+}
+
+
+
+.show_img{
+    width: 90%;
+    margin: 30px auto;
+}
+
+
+.show_title{
+    font-size: 24px;
+    text-align: center;
+    line-height: 3;
+}
+
+.show_content{
+    margin-top: -40px;  
+}
+
+.show_show{
+    margin-top: 0px;
+}
+
+.code_pic{
+    width: 58%;
+    margin-top: 10px;
+}
+
+h6{
+    line-height: 117px;
+}
+
