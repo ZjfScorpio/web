@@ -10,6 +10,7 @@ public class WebApplication {
         SpringApplication.run(WebApplication.class, args);
         System.out.println("1");
         System.out.println("1");
+        System.out.println("1");
     }
 
 }
